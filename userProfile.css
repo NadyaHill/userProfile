@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .dogBook{
 	position: relative;
 	top:0;
@@ -17,6 +18,10 @@
 .backgroundImage{
 	position: relative;
 /*	width: 100%;*/
+=======
+.backgroundImage{
+	position: relative;
+>>>>>>> 5dbfcb912fe5a771634ac5579d80da371549469a
 	top:0;
 	left:0;
 }
@@ -90,6 +95,7 @@ body{
 /*	margin-top: -250px;*/
 }
 
+<<<<<<< HEAD
 button{
 	background-color: blue;
 	border-radius: 5px;
@@ -98,3 +104,5 @@ button{
 	font-weight: bold;
 }
 
+=======
+>>>>>>> 5dbfcb912fe5a771634ac5579d80da371549469a
